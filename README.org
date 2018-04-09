@@ -1,0 +1,12 @@
+#+AUTHOR:	Jacob Lewallen
+#+EMAIL:	jacob@conservify.org
+
+* What is this?
+
+Just a simple collection of projects and other reference materials that we have come across in our daily adventures. Anything that we found that might be useful in future projects or has been useful before.
+
+* Raspberry Pi
+
+** PiRa
+
+"PiRa zero is a compact shield for power scheduling on Rasppbery Pi and similar devices in solar and wirelessly powered applications." ([[http://irnas.eu/pira][PiRa]] | [[https://github.com/IRNAS/PiRa-zero][GitHub]])
