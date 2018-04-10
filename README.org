@@ -10,3 +10,11 @@ Just a simple collection of projects and other reference materials that we have 
 ** PiRa
 
 "PiRa zero is a compact shield for power scheduling on Rasppbery Pi and similar devices in solar and wirelessly powered applications." ([[http://irnas.eu/pira][PiRa]] | [[https://github.com/IRNAS/PiRa-zero][GitHub]])
+
+* Cellular
+
+** Recommended Modules
+
+https://www.u-blox.com/en/product/sara-u2-series
+
+https://www.u-blox.com/en/lte-cat-m1
