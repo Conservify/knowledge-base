@@ -15,6 +15,10 @@ Just a simple collection of projects and other reference materials that we have 
 
 ** Recommended Modules
 
+After a conversation with somebody very familiar with the space, they recommended:
+
 https://www.u-blox.com/en/product/sara-u2-series
 
 https://www.u-blox.com/en/lte-cat-m1
+
+https://www.botletics.com/products/sim7000-shield
